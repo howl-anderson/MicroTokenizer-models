@@ -1,7 +1,7 @@
 {
     "MicroTokenizer": {
         "0.13.1": {
-            "en_core_pd_sm": ["0.1.0"]
+            "core_pd_sm": ["0.1.0"]
         }
     }
 }
